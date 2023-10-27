@@ -1,4 +1,4 @@
 # Portal-Linux
 <p align="center">
-<img width="300" height="190" src="/logo/logo2.png">
+<img width="300" height="300" src="/logo/logo2.png">
 </p>
